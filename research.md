@@ -22,7 +22,6 @@ ___
 <br>
 ## Social Learning in Policy Making 
 ___
-<br>
 *Joint with [Yiming Cao](https://www.yimingcao.com)*  
 <i>Download [Introduction & Results](https://www.dropbox.com/scl/fi/8gckubrozazyvyan4xskw/policydiffusion.pdf?dl=0&rlkey=108qnm5threwhw12h8375eetb)</i>
 * Collected a large dataset of official (red-header) documents in China
@@ -48,7 +47,17 @@ ___
 * Using a spatial diff-in-diff, we explore its economic impact at the block level
 <br>
 
+## Ballot Order Effect without (Open) Election
+___
 
+<br>
+I documented that Chinese officials with fewer strokes in the family name, and thus with the name appearing early in a roster, are overrepresented at the top leadership body(central committee). The overrepresentation relative to the population (and to the top scientists) is largely driven by names with the fewest 24% strokes (≤ 6 strokes) and is more pronounced for names with fewer strokes. A minor effect is found for less powerful members of the NPC and CPPCC. This roster effect suggests limited attention of officials in charge of appointment or involved in the party's personnel selection process. The advantage of name order in politicians' career advancement is not unique to public elections and has a non-trivial effect on who becomes top leaders.
+<br>
+
+![Roster Order Effect](/assets/roster_order_cdf.png)
+
+
+<br>
 ## The Intergenerational Effect of Malaria Eradication 
 ___
 *Joint with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Saravana Ravindran](https://www.saravanaravindran.com/)*  
