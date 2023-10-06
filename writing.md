@@ -102,7 +102,5 @@ Alex Honnold说自由独攀是最接近完美的事情，因为不能够犯错�
 [沪上絮语 | The Atlantic](https://zhuanlan.zhihu.com/p/498817952)  
 Te-ping Chen的短篇小说 
  
-___
-更多请移步[豆瓣主页](https://www.douban.com/people/Azure_cj/notes?_i=0351161x-y4kfn)
- 
+
 
