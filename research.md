@@ -5,9 +5,11 @@ title: Research
 <br>
 ## Life-saving Fundraising:<br>Is Donor Generosity Merit-based or Need-based?
 ___
-*[Job Market Paper](https://www.dropbox.com/sh/q8pac1tpqc267ei/AADVS3O44u_pddqG7TmLSjpCa?dl=0)*  
-<i>Download [draft](https://www.dropbox.com/sh/q8pac1tpqc267ei/AADVS3O44u_pddqG7TmLSjpCa?dl=0)</i>
+*[Job Market Paper](https://www.dropbox.com/scl/fo/gitmbpfhp6li36cb44z9i/h?rlkey=aywlqam8666ztr317znlibudh&dl=0)*  
+<i>Download [draft](https://www.dropbox.com/scl/fo/gitmbpfhp6li36cb44z9i/h?rlkey=aywlqam8666ztr317znlibudh&dl=0)</i>
 <br>
+This paper studies how donors respond to merit and need when giving to families facing unaffordable medical expenses. With data from a leading crowdfunding platform in China, I find that campaigns receive more donations if patients or fundraisers report attending (selective) colleges. At the transaction level, I show that, after controlling for campaign characteristics and donor fixed effect, a repeat donor favors patients who attend a higher-ranked college or have a higher education level. An online survey experiment is conducted to elicit respondents’ willingness to donate to synthetic fundraising stories, in which the patients’ college and medical expenses are independently randomized. Both academic merit and financial need enhance donor generosity. The effect on college ranking is more pronounced for top and in-province institutions and among respondents with better knowledge of college ranking. Merit helps attract more donations, likely by enhancing perceived deservingness. Novel textual methods based on large language models are developed to extract information and build measures from text efficiently.
+
 * I studied how donors respond to merit and need when giving to families facing unaffordable medical expenses.
 * Crowdfunding campaigns receive much more donations if patients or fundraisers report attending (selective) colleges.
 * At the transaction level, a serial donor favors patients who attend a higher-ranked college or have a postgraduate degree.
