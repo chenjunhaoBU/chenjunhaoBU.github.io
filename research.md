@@ -19,10 +19,8 @@ This paper studies how donors respond to merit and need when giving to families 
 ___
 *Joint with [Yiming Cao](https://www.yimingcao.com)*  
 <i>Download [Introduction](https://www.dropbox.com/scl/fi/8gckubrozazyvyan4xskw/policydiffusion.pdf?dl=0&rlkey=108qnm5threwhw12h8375eetb)</i>
-* Collected a large dataset of official (red-header) documents in China
-* Identified policies from document topics classified by BERT
-* Depicted the patterns of policy creation and diffusion
-* Associated the patterns with regional development characteristics and promotion incentives of local leaders
+
+Using large language models to categorize policy documents and exploiting a unique social networking setup among policymakers at China’s Party School, we investigate the diffusion of policy ideas. The study finds that policy diffusion is more likely between cities with leaders who were classmates in these training programs. The results indicate that social networks significantly influence policy transmission. The impact of these social connections is equivalent to approximately 10% of the effect of directly moving a policymaker from one jurisdiction to another. These findings primarily apply to non-economic policies, suggesting that when tackling complex social problems, policymakers rely on knowledge exchange with more experienced peers in their network.
 <br> 
 
 ![Topic Hierarchy by BERT](/assets/the_topic_hierarchy.png)
