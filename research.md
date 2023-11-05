@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 <br>
-## Life-saving Fundraising:<br>Is Donor Generosity Merit-based or Need-based?
+## Is Deservingness Merit-based or Need-based? <br> Evidence from Medical Crowdfunding
 ___
 *[Job Market Paper](https://www.dropbox.com/scl/fo/gitmbpfhp6li36cb44z9i/h?rlkey=aywlqam8666ztr317znlibudh&dl=0)*  
 <i>Download [draft](https://www.dropbox.com/scl/fo/gitmbpfhp6li36cb44z9i/h?rlkey=aywlqam8666ztr317znlibudh&dl=0)</i>
