@@ -44,10 +44,11 @@ ___
 
 ## Born to lead: Ballot Order Effect without (Open) Election
 ___
-I documented that Chinese officials with fewer strokes in the family name, and thus with the name appearing early in a roster, are overrepresented at the top leadership body(central committee). The overrepresentation relative to the population (and to the top scientists) is largely driven by names with the fewest 24% strokes (≤ 6 strokes) and is more pronounced for names with fewer strokes. A smaller effect is found for less powerful members of the NPC and prefecture chiefs. This roster effect suggests limited attention of decision-makers involved in the party's personnel selection process. The advantage of name order in politicians' career advancement is not unique to public elections and has a non-trivial effect on who becomes top leaders.
+I document that Chinese officials with fewer strokes in their surname, and thus appearing early in a roster, are overrepresented at the central and local leadership bodies. The overrepresentation relative to the population (and to the top scientists) is largely driven by names with the fewest 17% strokes (≤ 5 strokes) and is more pronounced for surnames with fewer strokes. A smaller effect is found for lower-level officials and national congress deputies. This name order effect suggests limited attention of decision-makers in the party's personnel selection process. Therefore, the advantage of name order is not unique to public elections and has a non-trivial effect on who becomes top leaders.
 <br>
 
 ![Number of Strokes](/assets/nstrokeciplot.png)
+![Cumulative Prob](/assets/cdfat345.png)
 
 
 <br>
@@ -56,7 +57,7 @@ ___
 *Joint with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home) and [Saravana Ravindran](https://www.saravanaravindran.com/)*  
 
 Using a cohort DID design and exploiting regional variation in malaria endemicity,
-We study whether parents' exposure to malaria eradication program affect the health and labor market outcomes of their children. We find zero effect in India and other countries. We document an educational benefit for children who are themselves exposed to malaria eradication in China. 
+we investigate whether parents' exposure to malaria eradication program affects the health and labor market outcomes of their children. We find zero effect in India and other countries. We document an educational benefit for children who are themselves exposed to malaria eradication in China. 
 
 ![MalariaChina](/assets/finish-second-school.png)
 
