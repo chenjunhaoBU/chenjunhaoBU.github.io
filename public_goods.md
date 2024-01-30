@@ -17,3 +17,7 @@ Posts from 90K users on jianshu.com, scraped in 2021 <br>
 **Extract Information from Text** *Notes* <br> 
 Discussed textual methods, old and new. Oct 04 2023 <br>
 [Download](https://www.dropbox.com/scl/fi/83bb8ekjcftwwnnldsfz8/DRG-Textual-Methods.pdf?rlkey=fxmxpd3ofryzfbebi1umkznab&dl=0) 
+
+
+**内地经济系求职经验（23-24）** <br>
+[Read](https://www.dropbox.com/scl/fi/sfs9cg9xl2hnhmreimhya/23-24.pdf?rlkey=pwgfkavztax5i023uvmbp2u8s&dl=0) 
