@@ -6,7 +6,7 @@ title: Research
 ## Is Deservingness Merit-based or Need-based? <br> Evidence from Medical Crowdfunding
 ___
 *[Job Market Paper](https://www.dropbox.com/scl/fi/gcggyd8g48mmgs5mbxd7m/Chen-JMP-Merit-1117.pdf?rlkey=z4l1ydm44tbo7850tkywbdth8&dl=0)*  
-<i>Download [Here](https://www.dropbox.com/scl/fi/gcggyd8g48mmgs5mbxd7m/Chen-JMP-Merit-1117.pdf?rlkey=z4l1ydm44tbo7850tkywbdth8&dl=0)</i>
+<i>Download [Slides](https://www.dropbox.com/scl/fi/53x7a7pbg1dp30j7p8i5k/JMT_IAER_Flyout_1223.pdf?rlkey=e8810cw0gesqlscy0afebej97&dl=0)</i>
 
 <br>
 This paper studies how donors respond to merit and need when giving to families facing unaffordable medical expenses. With data from a leading crowdfunding platform in China, I find that campaigns receive more donations if recipients report having a higher education level or attending more selective colleges. The college rank effect persists even after controlling for content and textual characteristics and donor fixed effects. To identify the effect of donor preference, I conduct an online survey experiment to elicit the willingness of respondents to donate to fundraising vignettes, in which the patients’ college and medical expenses are independently randomized. Both academic merit and financial need enhance donor generosity. Female and younger respondents respond more to need and less to merit. The college rank effect is more pronounced for top and in-province institutions and among people with better knowledge of the ranking. Merit helps attract donations, likely by enhancing perceived deservingness. Novel textual methods based on large language models are developed to extract information and build measures from fundraising stories efficiently.
@@ -27,12 +27,19 @@ Using large language models to categorize policy documents and exploiting a uniq
 
 <br>
 
+## Born to lead: Name Order Effect in Political Selection in China
+___
+This paper studies the name order effect in political selection in a non-democracy. I document that Chinese officials with fewer strokes in their surname are overrepresented in top leadership bodies, as a result of simple surnames appearing early in a roster. The overrepresentation relative to the population (and to social elites) is driven by 17% of names with the fewest strokes (≤ 5 strokes). I show that prefectural leaders with simpler surnames have a higher chance of promotion, and the effect increases with the size of the candidate pool. This name order effect stems from the formal substitution process, more name exposure, and suggests limited attention and misperception of decision-makers during political selection. Therefore, cognitive bias and fatigue not only affect voters with low information in a democracy but also sophisticated politicians seeking competent or loyal subordinates or successors in a non-democracy, thus affecting who becomes top leaders in China.
 
 
+<br>
+
+![Number of Strokes](/assets/nstrokeciplot.png)
+![Cumulative Prob](/assets/cdfat345.png)
+<i>Download [Slides](https://www.dropbox.com/scl/fi/stazf32pc6wabi8pf4pfc/Strokes_slides_0322.pdf?rlkey=cgalem1h0o09b31b1s5swi2q3&dl=0)</i>
 
 ## The Economic Impact of Closing Illicit Markets:<br> Evidence from China’s Crackdown on Prostitution
 ___
-*Joint with Songjun Jiang*
 
 * Using synthetic control methods, we estimated the economic impact of a crackdown on prostitution in Dongguan
 * Tourism suffered a major blow due to the removal of the sex industry and increased law enforcement
@@ -42,13 +49,6 @@ ___
 ![The effect on entertainment](/assets/wenyu_coefplot.png)
 <br>
 
-## Born to lead: Ballot Order Effect without (Open) Election
-___
-I document that Chinese officials with fewer strokes in their surname, and thus appearing early in a roster, are overrepresented at the central and local leadership bodies. The overrepresentation relative to the population (and to the top scientists) is largely driven by names with the fewest 17% strokes (≤ 5 strokes) and is more pronounced for surnames with fewer strokes. A smaller effect is found for lower-level officials and national congress deputies. This name order effect suggests limited attention of decision-makers in the party's personnel selection process. Therefore, the advantage of name order is not unique to public elections and has a non-trivial effect on who becomes top leaders.
-<br>
-
-![Number of Strokes](/assets/nstrokeciplot.png)
-![Cumulative Prob](/assets/cdfat345.png)
 
 
 <br>
