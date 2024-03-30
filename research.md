@@ -29,14 +29,14 @@ Using large language models to categorize policy documents and exploiting a uniq
 
 ## Born to lead: Name Order Effect in Political Selection in China
 ___
+<i>Download [Slides](https://www.dropbox.com/scl/fi/stazf32pc6wabi8pf4pfc/Strokes_slides_0322.pdf?rlkey=cgalem1h0o09b31b1s5swi2q3&dl=0)</i>
+
 This paper studies the name order effect in political selection in a non-democracy. I document that Chinese officials with fewer strokes in their surname are overrepresented in top leadership bodies, as a result of simple surnames appearing early in a roster. The overrepresentation relative to the population (and to social elites) is driven by 17% of names with the fewest strokes (≤ 5 strokes). I show that prefectural leaders with simpler surnames have a higher chance of promotion, and the effect increases with the size of the candidate pool. This name order effect stems from the formal substitution process, more name exposure, and suggests limited attention and misperception of decision-makers during political selection. Therefore, cognitive bias and fatigue not only affect voters with low information in a democracy but also sophisticated politicians seeking competent or loyal subordinates or successors in a non-democracy, thus affecting who becomes top leaders in China.
 
 
 <br>
 
 ![Number of Strokes](/assets/nstrokeciplot.png)
-![Cumulative Prob](/assets/cdfat345.png)
-<i>Download [Slides](https://www.dropbox.com/scl/fi/stazf32pc6wabi8pf4pfc/Strokes_slides_0322.pdf?rlkey=cgalem1h0o09b31b1s5swi2q3&dl=0)</i>
 
 ## The Economic Impact of Closing Illicit Markets:<br> Evidence from China’s Crackdown on Prostitution
 ___
